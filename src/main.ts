@@ -1,6 +1,6 @@
 import {Http, HTTP_PROVIDERS}               from '@angular/http';
 import {Component, Injectable, provide}     from '@angular/core';
-import {TRANSLATE_PROVIDERS, TranslateService,
+import {TranslateService,
         TranslatePipe, TranslateLoader,
         TranslateStaticLoader}              from 'ng2-translate/ng2-translate';
 import {bootstrap}                          from '@angular/platform-browser-dynamic';
